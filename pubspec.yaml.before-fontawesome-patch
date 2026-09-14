@@ -106,8 +106,3 @@ flutter:
           weight: 400
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-
-# Local compatibility patch for modern Flutter.
-dependency_overrides:
-  font_awesome_flutter:
-    path: font_awesome_flutter
